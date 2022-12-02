@@ -1,7 +1,7 @@
 # MyReact
 Bài tập môn MyReact
 ## lý thuyết
-1. [Câu 1] (https://codepen.io/)
+1. [Câu 1] (https://codepen.io/cau1)
 2. [Câu 2] (https://codepen.io/)
 3. [Câu 3] (https://codepen.io/)
 4. [Câu 4] (https://codepen.io/)
