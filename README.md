@@ -2,6 +2,7 @@
 Bài tập môn MyReact
 ## lý thuyết
  1. [(Câu 1)] (https://codepen.io/huynhvanhieuu/pen/LYrgezj)
+ 2. 
 3.4. [Câu 3.4] (https://codepen.io/huynhvanhieuu/pen/jOKeYag)
 
  5. [Câu 5] (https://codepen.io/huynhvanhieuu/pen/zYampRo)
