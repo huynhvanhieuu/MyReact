@@ -20,5 +20,5 @@ Bài tập môn MyReact
  19. [Câu 19] (https://codepen.io/huynhvanhieuu/pen/rNKqJPK)
  20. [Câu 20] (https://codepen.io/huynhvanhieuu/pen/jOKdaGy)
  21. [Câu 21] (https://codepen.io/huynhvanhieuu/pen/WNyazNE)
-## Thực Hành
+
 
