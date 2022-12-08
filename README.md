@@ -39,4 +39,9 @@ Bài tập môn MyReact
  
  37. [Câu 21] (https://codepen.io/huynhvanhieuu/pen/WNyazNE)
 
+ ## Thực hành
+   [Câu 1] (https://codesandbox.io/s/tao-component-gbqryc)
+   [Câu 2] (https://codesandbox.io/s/single-ball-cjgpbq)
+   [Câu 3] (https://codesandbox.io/s/single-ball-cjgpbq)
+   (Câu 4] (https://codesandbox.io/s/bai-tap-du-an-ncln05)
 
